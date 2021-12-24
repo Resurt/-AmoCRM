@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/roistat",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "mrrom",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "amocrm/oauth2-amocrm": "*",
+    "dotzero/amocrm": "0.3.*"
+  }
+}

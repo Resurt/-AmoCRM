@@ -1,0 +1,19 @@
+.wrapper {
+    font-family: Tahoma,sans-serif;
+}
+
+.form {
+    text-align: center;
+    width: 100%;
+}
+
+.form-box {
+    padding-top: 20px;
+}
+
+.button {
+    border-radius: 10px 10px 10px 10px;
+    background-color: #ee8208;
+    padding-right: 30px;
+    padding-left: 30px;
+}
